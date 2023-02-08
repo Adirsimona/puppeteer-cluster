@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-cluster",
+  "name": "@Adirsimona/puppeteer-cluster",
   "version": "0.23.0",
   "description": "Cluster management for puppeteer (fork by Adirsimona)",
   "main": "dist/index.js",
@@ -14,6 +14,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Adirsimona/puppeteer-cluster.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/Adirsimona/puppeteer-cluster",
   "keywords": [
