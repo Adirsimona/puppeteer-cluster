@@ -1,6 +1,6 @@
 {
   "name": "@Adirsimona/puppeteer-cluster",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "description": "Cluster management for puppeteer (fork by Adirsimona)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
